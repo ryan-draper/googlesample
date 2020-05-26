@@ -1,5 +1,4 @@
-This is my first repo and my first commit.
+# About Me
 
-I am making changes to this file for a test in VIM.
+This is my about me project. It's not *everything* about me, but it's a start.
 
-We're adding one more line here.
